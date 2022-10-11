@@ -9,3 +9,4 @@ comments: true
 ---
 
 이렇게 하면 전처리할 수 있습니다.
+<script src="https://gist.github.com/Chatti5115/aa0e338641faa53e17a397b9bdaa6b22.js"></script>
